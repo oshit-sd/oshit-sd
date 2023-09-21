@@ -5,11 +5,6 @@
 
 <b>Skills - </b> RESTful WebServices, PHP, Laravel, Vue.js, JavaScript, Ajax, JQuery, MySQL, Bootstrap, HTML, CSS, Postman, Github, Gitlab, Bitbucket, cPanel, VPS Server.
 
-<p>
-    <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=oshit-sd&show_icons=true&locale=en" alt="oshit-sd" />
-    <img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oshit-sd&show_icons=true&locale=en&layout=compact" alt="oshit-sd" />
-</p>
-
 <h3>Programming Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/php-1572B6?style=for-the-badge&logo=php&logoColor=white" />
@@ -55,4 +50,9 @@
 <a href="mailto:sd.oshit@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
 </a>
+</p>
+
+<p>
+    <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oshit-sd&show_icons=true&locale=en&layout=compact" alt="oshit-sd" />
+    <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=oshit-sd&show_icons=true&locale=en" alt="oshit-sd" />
 </p>

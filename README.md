@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm OSHIT SUTRADAR</h1>
 
 <p align="justify">
-   I have 5+ years of experience in software development. Currently, I am working as a Software Engineer at Riseup Labs. I have a strong desire to achieve results, responsibility, and the capacity to work under pressure. I have a willingness to learn and a quick learning capability. I have multi-tasking ability and experience handling multiple projects at a time.</p>
+   I have 5+ years of experience in software development. Currently, I am working as a Software Engineer at Riseup Labs. I have a strong desire to achieve results, responsibility, and the capacity to work under pressure. I have a willingness to learn and a quick learning capability. I have multi-tasking ability and experience handling multiple projects at a time.
+</p>
 
 <b>Skills - </b> RESTful WebServices, PHP, Laravel, Vue.js, JavaScript, Ajax, JQuery, MySQL, Bootstrap, HTML, CSS, Postman, Github, Gitlab, Bitbucket, cPanel, VPS Server.
 
@@ -41,18 +42,18 @@
 
 <h3>Contact Me</h3>
 <p>
-<a href="https://github.com/oshit-sd">
-<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white">
-</a> 
-<a href="https://www.linkedin.com/in/oshit-sutradar">
-<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
-</a>
-<a href="mailto:sd.oshit@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
-</a>
+   <a href="https://github.com/oshit-sd">
+      <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white">
+   </a> 
+   <a href="https://www.linkedin.com/in/oshit-sutradar">
+      <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
+   </a>
+   <a href="mailto:sd.oshit@gmail.com">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
+   </a>
 </p>
 
 <p>
-    <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oshit-sd&show_icons=true&locale=en&layout=compact" alt="oshit-sd" />
-    <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=oshit-sd&show_icons=true&locale=en" alt="oshit-sd" />
+    <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oshit-sd&show_icons=true&locale=en&layout=compact" alt="oshit-sd" />
+    <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=oshit-sd&show_icons=true&locale=en" alt="oshit-sd" />
 </p>

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm OSHIT SUTRADAR</h1>
 
-<P align="justify"> I have 5+ years of experience in software development. Currently, I am working as a Software Engineer at Riseup Labs. I have a strong desire to achieve results, responsibility, and the capacity to work under pressure. I have a willingness to learn and a quick learning capability. I have multi-tasking ability and experience handling multiple projects at a time. I have a good understanding of PHP, Laravel, JavaScript, Vue JS and MySQL.I have 5+ years of experience in software development. Currently, I am working as a Software Engineer at Riseup Labs. I have a strong desire to achieve results, responsibility, and the capacity to work under pressure. I have a willingness to learn and a quick learning capability. I have multi-tasking ability and experience handling multiple projects at a time.</P>
+<p align="justify">
+   I have 5+ years of experience in software development. Currently, I am working as a Software Engineer at Riseup Labs. I have a strong desire to achieve results, responsibility, and the capacity to work under pressure. I have a willingness to learn and a quick learning capability. I have multi-tasking ability and experience handling multiple projects at a time.</p>
 
 <b>Skills - </b> RESTful WebServices, PHP, Laravel, Vue.js, JavaScript, Ajax, JQuer, MySQL, Bootstrap, HTML, CSS, Postman, Github, Gitlab, cPanel, VPS Server.
 
 <p>
-   
  <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=oshit-sd&show_icons=true&locale=en" alt="oshit-sd" />
 </p>
 
@@ -13,6 +13,7 @@
 
 <h3>Programming languages</h3>
 <p>
+  <img src="https://img.shields.io/badge/php-1572B6?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -32,16 +33,15 @@
 <h3>Databases</h3>
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 <h3>Contact Me</h3>
 <p>
-<a href="https://github.com/oshit-sd">
+<a href="https://github.com/oshit-sd" target="_blank">
 <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white">
 </a> 
-<a href="https://www.linkedin.com/in/oshit-sutradar">
+<a href="https://www.linkedin.com/in/oshit-sutradar" target="_blank">
 <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
 </a>
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">

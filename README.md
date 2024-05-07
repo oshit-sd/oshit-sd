@@ -6,6 +6,10 @@
 
 <b>Skills - </b> RESTful WebServices, PHP, Laravel, Vue.js, JavaScript, Ajax, JQuery, MySQL, Bootstrap, HTML, CSS, Postman, Github, Gitlab, Bitbucket, cPanel, VPS Server.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oshit-sd&label=Profile%20views&color=0e75b6&style=flat" alt="oshit-sd" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshit-sd" alt="oshit-sd" /></a> </p>
+
 <h3>Programming Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/php-1572B6?style=for-the-badge&logo=php&logoColor=white" />

@@ -58,7 +58,7 @@
 </p>
 
 <p>
-   <img  width="23%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oshit-sd&show_icons=true&locale=en&layout=compact" alt="oshit-sd" />
-   <img width="34%"  src="https://github-readme-stats.vercel.app/api?username=oshit-sd&show_icons=true&locale=en" alt="oshit-sd" />
-   <img  width="34%" src="https://github-readme-streak-stats.herokuapp.com/?user=oshit-sd&" alt="oshit-sd" />
+   <img  width="27%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oshit-sd&show_icons=true&locale=en&layout=compact" alt="oshit-sd" />
+   <img width="35%"  src="https://github-readme-stats.vercel.app/api?username=oshit-sd&show_icons=true&locale=en" alt="oshit-sd" />
+   <img  width="37%" src="https://github-readme-streak-stats.herokuapp.com/?user=oshit-sd&" alt="oshit-sd" />
 </p>
